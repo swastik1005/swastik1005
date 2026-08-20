@@ -2,7 +2,7 @@
 
 I am an Electronics and Communication Engineering student at IIT Bhubaneswar, interested in software engineering, machine learning systems, and data infrastructure.
 
-[LinkedIn](https://www.linkedin.com/in/swastik-mantri-53921a2a9/) · [LeetCode](https://leetcode.com/u/Clean_Code1005/) · [Codeforces](https://codeforces.com/profile/Swastik_Mantri) · [CodeChef](https://www.codechef.com/users/sw_m)
+[LinkedIn](https://www.linkedin.com/in/swastik-mantri-53921a2a9/) · [LeetCode](https://leetcode.com/u/Clean_Code1005/) · [Codeforces](https://codeforces.com/profile/Swastik_Mantri) 
 
 ## Experience
 
